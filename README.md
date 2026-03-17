@@ -1,4 +1,4 @@
-# [Free Online Tools](https://advancetoolbox.com)
+# Free Online Tools
 
 Looking for free tools like image converter, JSON formatter, and more?
 
